@@ -1,6 +1,6 @@
 {
   "name": "easy-email-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight and reliable email validator that focuses on validating the format (syntax) of email addresses, ensuring compliance with standard email patterns. Does not verify email deliverability or functionality.",
   "main": "index.js",
   "scripts": {
