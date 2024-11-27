@@ -1,0 +1,30 @@
+{
+  "name": "easy-email-validator",
+  "version": "1.0.0",
+  "description": "A lightweight and reliable email validator that focuses on validating the format (syntax) of email addresses, ensuring compliance with standard email patterns. Does not verify email deliverability or functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal Goyal <geek4teck@gmail.com>",
+  "license": "Unlicense",
+  "engines": {
+    "node": ">4.0"
+  },
+  "keywords": [
+    "email",
+    "validation",
+    "validator",
+    "syntax",
+    "easy"
+  ],
+  "homepage": "https://github.com/vishal-3205/easy-email-validator",
+  "licenses": [{
+    "type": "MIT",
+    "url":"https://github.com/vishal-3205/easy-email-validator/raw/master/LICENSE"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vishal-3205/easy-email-validator.git"
+  }
+}
